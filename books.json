@@ -1,0 +1,45 @@
+[
+    {
+        "Name": "Art of war",
+        "Author": "Thomas Cleary",
+        "Genere": "Self-improvement", 
+        "Year_of_Publication": 1998
+    },
+    {
+        "Name": "Peter Pan",
+        "Author": "Adam Higgenbottom",
+        "Genere": "Fiction",
+        "Year_of_Publication":1980
+    },
+    {
+        "Name": "Snow white",
+        "Author":"Sandra Bulock",
+        "Genere":"Fiction",
+        "Year_of_Publication":2000
+    },
+    {
+        "Name":"Cinderella",
+        "Author":"Paige alexworth",
+        "Genere":"Fiction" ,
+        "Year_of_Publication":1995
+    },
+    {
+        "Name":"Bauty and the Beast",
+        "Author":"Matilda Martin",
+        "Genere":"Fiction",
+        "Year_of_Publication": 2002
+    },
+    {
+        "Name": "The way of the superior man",
+        "Author": "Angel Smith ",
+        "Genere":"Self-improvement",
+        "Year_of_Publication":1999
+    }
+
+]
+
+
+
+
+
+
